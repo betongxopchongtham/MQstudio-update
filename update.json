@@ -1,6 +1,10 @@
 {
   "version": "3.6",
-  "notes": "Cập nhật tính năng mới v3.1 /n Cập nhật Banana 2",
-  "zip_url": "LINK_TẢI_FILE_ZIP_TỪ_GITHUB_RELEASES",
+  "notes": [
+    "1. Cập nhật model Banana 2 mới",
+    "2. Sửa lỗi hiển thị logo",
+    "3. Thêm tính năng tự động nhận diện Tier"
+  ],
+  "zip_url": "...",
   "exe_url": ""
 }
