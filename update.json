@@ -2,8 +2,7 @@
   "version": "3.6",
   "notes": [
     "1. Cập nhật model Banana 2 mới",
-    "2. Sửa lỗi hiển thị logo",
-    "3. Thêm tính năng tự động nhận diện Tier"
+    "2. Thêm tính năng tự động nhận diện Tier"
   ],
   "zip_url": "...",
   "exe_url": ""
